@@ -1,0 +1,16 @@
+edu\mum\domain\OrderPayment.class
+edu\mum\AmqpMain.class
+edu\mum\amqp\DirectListener.class
+edu\mum\domain\UserCredentials.class
+edu\mum\domain\Member.class
+edu\mum\amqp\OrderService.class
+edu\mum\amqp\OrderListener.class
+edu\mum\domain\Customer.class
+edu\mum\domain\Product.class
+edu\mum\domain\Order.class
+edu\mum\domain\OrderItem.class
+edu\mum\domain\Authority.class
+edu\mum\domain\Category.class
+edu\mum\amqp\DirectServiceImpl.class
+edu\mum\amqp\OrderServiceImpl.class
+edu\mum\domain\Address.class

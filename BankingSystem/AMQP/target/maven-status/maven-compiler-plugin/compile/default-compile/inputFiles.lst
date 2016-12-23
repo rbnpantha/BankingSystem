@@ -1,0 +1,16 @@
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\AmqpMain.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\domain\UserCredentials.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\amqp\DirectServiceImpl.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\domain\Product.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\amqp\OrderServiceImpl.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\domain\Order.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\domain\Customer.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\domain\Category.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\domain\Address.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\domain\Member.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\domain\OrderPayment.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\amqp\DirectListener.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\amqp\OrderListener.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\domain\Authority.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\domain\OrderItem.java
+D:\Projects\LabSolutions\Lesson9\AMQPconsumer\AMQP\src\main\java\edu\mum\amqp\OrderService.java
