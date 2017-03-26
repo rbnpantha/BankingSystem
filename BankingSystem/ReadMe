@@ -1,3 +1,5 @@
+Academic Project : Enterprise Architecture
+
 Online Banking System, Maharishi University of Management:: Created a banking system with separate RESTful web service and AMQP messaging with emailing functionality, which sends email to customer when new account is created. The primary objective of this project is to facilitate online banking and keep records of all transactions and users of all levels/roles. 
 
 Technologies: Java, RESTful web service, Spring Security and Hierarchical Access Control, Spring Validation, Spring Authority, Spring AOP, AMQP messaging, Emailing, REST, JPA, and Hibernate.
